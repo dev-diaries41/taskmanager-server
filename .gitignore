@@ -1,0 +1,6 @@
+.env
+error.log
+combined.log
+tasks.log
+node_modules/
+package-lock.json
